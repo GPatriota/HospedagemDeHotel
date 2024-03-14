@@ -24,7 +24,7 @@ namespace DesafioProjetoHospedagem.Models
             else 
             {
                 Console.WriteLine ("A capacidade da suíte é menor do que a quantidade de hóspedes.");
-                Console.WriteLine ("Escolha um tipo que atenda a capacidade.");
+                Console.WriteLine ("É recomendado um tipo que atenda a capacidade.");
                 Hospedes = hospedes;
             }
         }
